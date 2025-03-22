@@ -1,2 +1,2 @@
-# pygametemplate
-My little pygame template
+# superminishooter
+My very little top-down shooter
